@@ -77,43 +77,11 @@ Atualmente focado em **desenvolvimento web full-stack**, **inteligência artific
 
 ## 🌟 <a name="projetos"></a>Meus Projetos
 
-### GECOPEC - Sistema de Gestão de Cursos e Planos de Ensino
-Sistema acadêmico completo para gestão de cursos, disciplinas, planos de ensino, cronogramas e relatórios. Interface intuitiva para coordenadores, professores e administradores.
+Confira todos os meus projetos no meu portfólio completo:
 
-> **Tecnologias:** PHP, MySQL, HTML5, CSS3, JavaScript  
-[Demo](#) | [Código](https://github.com/Davidamascen07/gecopec)
+[🔗 Portfólio Pessoal - David Frota](https://portfolio-ecru-one-16.vercel.app)
 
-### Digital Store
-Plataforma moderna de e-commerce para tênis e calçados esportivos. Carrinho, autenticação, busca avançada, checkout e design responsivo.
-
-> **Tecnologias:** React, Vite, Tailwind CSS, React Router, Material-UI  
-[Demo](#) | [Código](#)
-
-### E-commerce Backend API
-API RESTful robusta para sistema de e-commerce, com autenticação JWT, CRUD completo, validações, relacionamentos e testes automatizados.
-
-> **Tecnologias:** Node.js, Express, MySQL, Sequelize, JWT  
-[Demo](#) | [Código](#)
-
-### SIAPP - Sistema Integrado de Atendimento Psicossocial
-Sistema web completo para gestão de atendimentos psicossociais em instituições de ensino. Inclui módulos de agendamento, acompanhamento, relatórios, triagem, eventos em grupo e controle de acesso por níveis de usuário.
-
-> **Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript, AJAX  
-[Demo](#) | [Código](#)
-
-### Portfólio Pessoal - David Frota
-Portfólio moderno desenvolvido com React, Vite e Tailwind CSS. Design responsivo, tema escuro, animações, formulário de contato integrado ao EmailJS e apresentação de projetos reais.
-
-> **Tecnologias:** React, Vite, Tailwind CSS, EmailJS, Font Awesome  
-[Demo](#) | [Código](#)
-
-### Sistema Acadêmico Mobile
-Aplicativo Android para gerenciamento acadêmico: acompanhamento de notas, faltas, histórico, perfil do aluno e dashboard. Interface moderna, tema claro/escuro e testes automatizados.
-
-> **Tecnologias:** Java, Android, SQLite, Material Design 3, JUnit, Espresso  
-[Demo](#) | [Código](#)
-
-[Ver Todos os Projetos](#projetos)
+> Código-fonte disponível em: [github.com/Davidamascen07/portfolio](https://github.com/Davidamascen07/portfolio)
 
 ---
 
