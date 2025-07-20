@@ -1,73 +1,62 @@
-# DavidFrota
+
+# 👋 Olá! Eu sou David Damasceno da Frota
 
 <p align="center">
-  <b>Início | <a href="#sobre-mim">Sobre</a> | <a href="#habilidades">Habilidades</a> | <a href="#projetos">Projetos</a> | <a href="#experiencia">Experiência</a> | <a href="#contato">Contato</a></b>
+  <b>Confira meu portfólio com projetos live: <a href="https://portfolio-ecru-one-16.vercel.app/">Acesse aqui</a></b>
 </p>
 
 ---
 
-# 👋 Olá, eu sou David Damasceno da Frota!
+🚀 Desenvolvedor Full Stack focado em criar soluções web modernas, escaláveis e integradas com APIs. Tenho experiência prática com PHP/Laravel, React.js, WooCommerce, MySQL, Tailwind CSS e arquitetura limpa.
 
-🎓 **Bacharel em Sistemas de Informação (2025) — Viçosa do Ceará, CE**  
-💻 Desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Foco em desenvolvimento web, análise de sistemas e inteligência artificial.
-
-[Ver Projetos](#projetos) | [Contato](#contato) | [Download CV](#contato)
+Com mais de 3 anos desenvolvendo aplicações web em projetos reais, utilizo PHP, Laravel, MySQL e React para entregar sistemas performáticos e escaláveis.
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🛠️ Stack Principal
 
-Meu nome é **David Damasceno da Frota**, estudante de Sistemas de Informação com formação prevista para 2025. Apaixonado por tecnologia e como ela pode transformar vidas.
+| Back-end      | Front-end         | Outros                |
+|-------------- |------------------ |---------------------- |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) <br> ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) <br> ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) <br> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) <br> ![API REST](https://img.shields.io/badge/API_REST-0052CC?style=flat) <br> ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B8BBE?style=flat) <br> ![Testes Automatizados](https://img.shields.io/badge/Testes_Automatizados-25A162?style=flat) |
 
-Atualmente focado em **desenvolvimento web full-stack**, **inteligência artificial** e **análise de dados**. Acredito que a combinação dessas áreas pode criar soluções inovadoras para problemas complexos.
+---
 
-- 📚 **Bacharelado em SI (2025)**
+## 🧪  Projetos em destaque
+
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [E-Commerce Laravel](https://github.com/Davidamascen07/laravel-ecommerce) | Laravel, WooCommerce, Redis | Sistema completo de vendas com sync WooCommerce e múltiplos gateways de pagamento. |
+| [Portfólio pessoal](https://portfolio-ecru-one-16.vercel.app/) | React, Vite, Tailwind | Apresentação dos meus principais projetos, responsivo e moderno. |
+| [Landing Page Café](https://github.com/Davidamascen07/Landing-Page-cafe) | HTML, CSS, JavaScript | Página institucional para marca fictícia de cafeteria. |
+
+---
+
+## 👤 Sobre Mim
+
+Atualmente focado em desenvolvimento web full-stack, inteligência artificial e análise de dados. Acredito que a combinação dessas áreas pode criar soluções inovadoras para problemas complexos.
+
+- 📚 **Bacharelado em Sistemas de Informação (FIED - 2025)**
 - 📍 Viçosa do Ceará, CE
-- 📧 davidddf.frota@gmail.com
-- 📱 (88) 99755-7530
+- 📧 [davidddf.frota@gmail.com](mailto:davidddf.frota@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/damascenodf)
 
 ---
 
-## 🛠️ <a name="habilidades"></a>Minhas Habilidades
+## Habilidades Complementares
 
-### Técnicas
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Espresso](https://img.shields.io/badge/Espresso-6E4C13?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Comportamentais
-
+**Comportamentais:**
 - Resolução de Problemas
 - Trabalho em Equipe
 - Comunicação Eficaz
 - Gestão de Tempo
 - Adaptabilidade
 
-### Idiomas
-
+**Idiomas:**
 - Português (Nativo)
 - Inglês (Básico)
 - Espanhol (Básico)
 
-### Atualmente aprendendo
-
+**Atualmente aprendendo:**
 - Machine Learning
 - Cloud Computing
 - DevOps
@@ -75,19 +64,7 @@ Atualmente focado em **desenvolvimento web full-stack**, **inteligência artific
 
 ---
 
-## 🌟 <a name="projetos"></a>Meus Projetos
-
-Confira todos os meus projetos no meu portfólio completo:
-
-[🔗 Portfólio Pessoal - David Frota](https://portfolio-ecru-one-16.vercel.app)
-
-> Código-fonte disponível em: [github.com/Davidamascen07/portfolio](https://github.com/Davidamascen07/portfolio)
-
----
-
-## 💼 <a name="experiencia"></a>Experiência & Educação
-
-### Experiência Profissional
+## 💼 Experiência & Educação
 
 **Desenvolvedor Full Stack — CajuDevSistems**  
 _Abr 2022 - Mar 2025_  
@@ -96,8 +73,6 @@ Desenvolvimento de interfaces web responsivas usando React.js, integração com 
 **Estagiário em Desenvolvimento - Full Stack — Aiamis / Ies / Serviços Vinculados**  
 _Ago 2024 - Jun 2025_  
 Desenvolvimento de Web Site para a empresa Aiamis, com a finalidade de gerenciar serviços de agendamento e atendimento do NAPSI.
-
-### Educação
 
 **Bacharelado em Sistemas de Informação — FIED IEDUCARE**  
 _2021 - 2025_  
@@ -113,14 +88,14 @@ Formação intensiva em Ciência de Dados com 240h, abrangendo fundamentos de IA
 
 ---
 
-## 📫 <a name="contato"></a>Entre em Contato
+## 📫 Contato
 
 Estou sempre aberto a novas oportunidades, projetos desafiadores ou simplesmente para conversar sobre tecnologia. Sinta-se à vontade para me contatar:
 
-- 📧 Email: davidddf.frota@gmail.com
-- 📱 Telefone: (88) 99755-7530
+- 📧 Email: [davidddf.frota@gmail.com](mailto:davidddf.frota@gmail.com)
 - 📍 Localização: Viçosa do Ceará, Ceará, Brasil
-- [LinkedIn](https://www.linkedin.com/in/seuusuario)
+- [LinkedIn](https://www.linkedin.com/in/damascenodf)
+
 
 ---
 
@@ -131,3 +106,4 @@ Estou sempre aberto a novas oportunidades, projetos desafiadores ou simplesmente
 <p align="center">
   <a href="#">Termos de Serviço</a> | <a href="#">Política de Privacidade</a> | <a href="#top">Voltar ao Topo</a>
 </p>
+
