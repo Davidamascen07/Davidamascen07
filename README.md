@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Stack Principal (Youshop-Ready)
+## 🛠️ Stack Principal
 
 | Back-end & APIs      | E-commerce & Pagamentos | Front-end & DevOps       | Metodologias             |
 |-------------------- |------------------------ |------------------------- |------------------------- |
@@ -33,7 +33,7 @@
 
 ## 🧪 Projetos em Destaque - E-commerce & Pagamentos
 
-| Projeto | Tecnologias | Descrição | Relevância Youshop |
+| Projeto | Tecnologias | Descrição | Relevância |
 |--------|-------------|-----------|-------------------|
 | [E-Commerce Laravel](https://github.com/Davidamascen07/laravel-ecommerce) | Laravel, WooCommerce, Redis, Gateway Pagamento | **Sistema completo de vendas** com sincronização WooCommerce e **múltiplos gateways de pagamento**. Inclui painel de controle para vendedores e checkout otimizado. | ✅ **Gateway de Pagamentos** <br> ✅ **Plataforma de Vendas** <br> ✅ **Painel de Controle** |
 | [Demo Portfolio Full Stack](https://github.com/Davidamascen07/demo-portfolio) | Spring Boot, React, GraphQL, PostgreSQL | Demonstração de competências full-stack com APIs REST, GraphQL, autenticação JWT e integração frontend-backend. | ✅ **APIs REST** <br> ✅ **Backend Robusto** <br> ✅ **Integração de Sistemas** |
@@ -54,7 +54,7 @@
 
 🚀 **Pronto para startups de tecnologia** - Busco desafios técnicos em equipes inovadoras, especialmente em meios de pagamento e plataformas de vendas online. Tenho paixão por resolver problemas complexos e criar soluções escaláveis.
 
-### 💪 Competências Alinhadas com Youshop:
+### 💪 Competências:
 - ✅ **Python 3 + Django:** Desenvolvimento backend robusto com orientação a objetos
 - ✅ **APIs REST:** Comunicação entre sistemas e integrações externas  
 - ✅ **MySQL:** Bancos de dados relacionais para sistemas de pagamento
@@ -75,7 +75,7 @@
 
 ---
 
-## 🚀 Skills & Diferenciais para Youshop
+## 🚀 Skills & Diferenciais
 
 ### ✅ Requisitos Técnicos Atendidos:
 - **Python 3 + Django:** +3 anos de experiência em desenvolvimento backend
@@ -150,9 +150,9 @@ Programação, bancos de dados, arquitetura de software, segurança, gestão de 
 
 ## 📫 Contato - Pronto para Desafios em Fintech
 
-🎯 **Interesse específico em Youshop:** Busco oportunidades em startups de meios de pagamento onde posso aplicar minha experiência em e-commerce, APIs de pagamento e desenvolvimento Python/Django para impactar o mercado digital.
 
-💼 **Disponibilidade:** Trabalho remoto, horários flexíveis, CLT - Alinhado com a proposta Youshop.
+
+💼 **Disponibilidade:** Trabalho remoto, horários flexíveis, CLT PJ  
 
 Estou sempre aberto a desafios técnicos, projetos inovadores em fintech e oportunidades de crescimento em equipes de fundadores visionários:
 
