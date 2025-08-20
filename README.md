@@ -1,181 +1,107 @@
 
-# 👋 Olá! Eu sou David Damasceno da Frota
+<div align="center">
 
-<p align="center">
-  <b>Confira meu portfólio com projetos live: <a href="https://portfolio-ecru-one-16.vercel.app/">Acesse aqui</a></b>
-</p>
+# 👋 Olá, eu sou David Damasceno
+Desenvolvedor **Full Stack** focado em entregar soluções web escaláveis, integrações e automações. Apaixonado por arquitetura limpa, testes e melhoria contínua.
+
+[🌐 Portfólio](https://portfolio-ecru-one-16.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/damascenodf) · [✉️ Email](mailto:davidddf.frota@gmail.com)
+
+</div>
 
 ---
 
-🚀 **Desenvolvedor Full Stack Python/Django** especializado em soluções para **e-commerce e meios de pagamento**. Com experiência sólida em APIs REST, integração de gateways de pagamento e desenvolvimento de plataformas de vendas online escaláveis.
+## 🚀 Visão Rápida
 
-💼 **Pronto para impactar startups de pagamentos** - Experiência comprovada em sistemas de vendas, WooCommerce, múltiplos gateways de pagamento e arquitetura limpa. Busco desafios técnicos em equipes inovadoras que transformam o mercado digital.
+| Área | Foco |
+|------|------|
+| Backend | APIs REST & GraphQL (Spring Boot, Laravel, Node.js, Django) |
+| Frontend | React, Tailwind, SPAs performáticas |
+| Integrações | Gateways de pagamento, WooCommerce, Webhooks, ERPs |
+| Banco de Dados | MySQL, PostgreSQL, SQL otimizado |
+| Qualidade | Testes (PHPUnit, Pest, JUnit, Espresso), Clean Code |
+| Automação | Scripts, filas, jobs assíncronos, CI/CD básico |
 
-🎯 **Foco atual:** Desenvolvimento backend com Python, APIs REST, integração de pagamentos e automação de processos.
+> Resultado comprovado: redução de 70% no tempo de atendimento administrativo (projeto SIAPP) e entrega de múltiplas soluções full stack end‑to‑end em ambiente freelance.
 
 ---
 
 ## 🛠️ Stack Principal
 
-| Back-end & APIs      | E-commerce & Pagamentos | Front-end & DevOps       | Metodologias             |
-|-------------------- |------------------------ |------------------------- |------------------------- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![API REST](https://img.shields.io/badge/API_REST-0052CC?style=flat) <br> ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white) <br> ![Gateway Pagamento](https://img.shields.io/badge/Gateway_Pagamento-00D4AA?style=flat) <br> ![E-commerce](https://img.shields.io/badge/E--commerce-FF6B35?style=flat) <br> ![Checkout](https://img.shields.io/badge/Checkout_Systems-4285F4?style=flat) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) <br> ![Testes](https://img.shields.io/badge/Testes_Unitários-25A162?style=flat) | ![Clean Code](https://img.shields.io/badge/Clean_Code-4B8BBE?style=flat) <br> ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat) <br> ![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=flat) <br> ![Automação](https://img.shields.io/badge/Automação-FF9500?style=flat) |
-
-### 💡 Competências Específicas para Meios de Pagamento:
-- **APIs REST:** Integração com gateways de pagamento e plataformas externas
-- **Python + Django:** Backend robusto para sistemas de vendas e checkout
-- **E-commerce:** Experiência com WooCommerce e plataformas de vendas online
-- **Bancos de Dados:** MySQL para gestão de transações e dados de vendas
-- **Versionamento:** Git com práticas colaborativas e controle de versão
-- **Testes:** Experiência em testes unitários e de integração
+**Linguagens:** Java | PHP | JavaScript/TypeScript | Python | SQL  
+**Backend:** Spring Boot, Laravel, Node/Express, Django  
+**Frontend:** React, Vite, Tailwind, Bootstrap  
+**Mobile / Desktop:** Android (Java), JavaFX/Swing  
+**Integrações & E-commerce:** WooCommerce API, Gateways de Pagamento, Webhooks  
+**Banco de Dados:** MySQL, PostgreSQL, SQLite  
+**Testes:** PHPUnit, Pest, JUnit, Espresso, Mockito  
+**Dev Aux:** Git, Docker básico, Redis (filas), GraphQL (Apollo)  
+**Práticas:** MVC, Clean Architecture, SOLID, Domain Events, Repository Pattern
 
 ---
 
-## 🧪 Projetos em Destaque - E-commerce & Pagamentos
+## 💼 Experiência
 
-| Projeto | Tecnologias | Descrição | Relevância |
-|--------|-------------|-----------|-------------------|
-| [E-Commerce Laravel](https://github.com/Davidamascen07/laravel-ecommerce) | Laravel, WooCommerce, Redis, Gateway Pagamento | **Sistema completo de vendas** com sincronização WooCommerce e **múltiplos gateways de pagamento**. Inclui painel de controle para vendedores e checkout otimizado. | ✅ **Gateway de Pagamentos** <br> ✅ **Plataforma de Vendas** <br> ✅ **Painel de Controle** |
-| [Demo Portfolio Full Stack](https://github.com/Davidamascen07/demo-portfolio) | Spring Boot, React, GraphQL, PostgreSQL | Demonstração de competências full-stack com APIs REST, GraphQL, autenticação JWT e integração frontend-backend. | ✅ **APIs REST** <br> ✅ **Backend Robusto** <br> ✅ **Integração de Sistemas** |
-| [Portfólio Responsivo](https://portfolio-ecru-one-16.vercel.app/) | React, Vite, Tailwind | Apresentação profissional com design moderno e responsivo, deploy automatizado. | ✅ **Frontend Moderno** <br> ✅ **Deploy Automatizado** |
+**Freelance Full Stack | PRINCEXDEV** _(jan/2018 – jun/2025)_  
+Entrega de sistemas web customizados (Spring Boot, Laravel, React, Tailwind, MySQL) com integrações externas e automações.  
+**Destaques:** integrações com WhatsApp / gateways / ERPs; arquitetura limpa; testes e documentação.
 
-### 🎯 Experiência Específica em E-commerce:
-- **Gateways de Pagamento:** Integração com múltiplas plataformas de pagamento
-- **Sistemas de Checkout:** Desenvolvimento de fluxos de pagamento otimizados  
-- **Painéis de Controle:** Dashboards para vendedores e administradores
-- **APIs de Vendas:** Desenvolvimento de endpoints para processamento de pedidos
-- **Automação:** Scripts para sincronização de dados e processamento de pagamentos
+**Desenvolvedor | CajuDevSistems (Meio período, híbrido)** _(abr/2022 – mar/2025)_  
+Manutenção e evolução de sistemas multi‑segmento.  
+**Foco:** novas funcionalidades, integrações, refatorações e suporte técnico.
 
----
-
-## 👤 Sobre Mim - Desenvolvedor Backend Python/Django
-
-🎯 **Especialista em soluções de pagamento e e-commerce** com foco em desenvolvimento backend Python/Django. Experiência comprovada em integração de APIs, gateways de pagamento e automação de processos.
-
-🚀 **Pronto para startups de tecnologia** - Busco desafios técnicos em equipes inovadoras, especialmente em meios de pagamento e plataformas de vendas online. Tenho paixão por resolver problemas complexos e criar soluções escaláveis.
-
-### 💪 Competências:
-- ✅ **Python 3 + Django:** Desenvolvimento backend robusto com orientação a objetos
-- ✅ **APIs REST:** Comunicação entre sistemas e integrações externas  
-- ✅ **MySQL:** Bancos de dados relacionais para sistemas de pagamento
-- ✅ **Git:** Versionamento colaborativo com boas práticas
-- ✅ **E-commerce:** Experiência em plataformas de vendas e checkout
-- ✅ **Testes:** Unitários e de integração para Python/Django
-- ✅ **Inglês Técnico:** Leitura de documentação e APIs internacionais
-- ✅ **Autogestão:** Autonomia e organização para trabalho remoto
-- ✅ **Linux:** Conhecimento de sistemas operacionais
-
-### 🎓 Formação & Certificações:
-- 📚 **Bacharelado em Sistemas de Informação (FIED - 2025)**
-- 🏆 **Formação Full Stack 192h (IEL/ADECE - 2024)**
-- 🧠 **Residência em Ciência de Dados 240h (UECE/Softex - 2025)**
-- 📍 Viçosa do Ceará, CE
-- 📧 [davidddf.frota@gmail.com](mailto:davidddf.frota@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/damascenodf)
+**Estagiário | Aiamis / IES** _(set/2024 – jul/2025)_  
+Projeto SIAPP (gestão institucional) em PHP + MySQL + Bootstrap.  
+**Impacto:** criação de módulos (agendamento, atendimento, usuários) e **redução de 70%** do tempo de atendimento; relatórios mensais, trimestrais e anuais.
 
 ---
 
-## 🚀 Skills & Diferenciais
+## 🏗️ Projetos Relevantes
 
-### ✅ Requisitos Técnicos Atendidos:
-- **Python 3 + Django:** +3 anos de experiência em desenvolvimento backend
-- **APIs REST:** Comunicação e integração com plataformas externas
-- **MySQL:** Bancos de dados relacionais para sistemas de pagamento
-- **Git:** Versionamento colaborativo com GitKraken, BitBucket, VSCode
-- **Orientação a Objetos:** Sólidos conhecimentos em OOP com Python
-- **Inglês Técnico:** Leitura e compreensão de documentação internacional
-- **Autogestão:** Experiência comprovada em trabalho remoto e autônomo
+| Projeto | Stack | O que mostra |
+|--------|-------|--------------|
+| **Mini ERP** | PHP puro, MySQL, Tailwind | MVC, carrinho, cupons, frete, webhook, emails, logs |
+| **GECOPEC** | PHP, MySQL, Tailwind, DomPDF, PHPWord | Gestão acadêmica, planos de ensino, relatórios PDF/Word, RBAC |
+| **E-Commerce Laravel + WooCommerce** | Laravel, WooCommerce API, Redis | Sincronização produtos/pedidos, múltiplos gateways, filas, eventos, testes |
+| **E-commerce Backend API** | Node.js, Express, Sequelize, JWT | API REST modular, autenticação, validação, migrations, seeders |
+| **Digital Store** | React, Vite, Tailwind | SPA com catálogo, carrinho, filtros e UX responsiva |
+| **Demo Portfolio Full Stack** | Spring Boot, React, GraphQL, PostgreSQL | Integração full stack, Auth/JWT, GraphQL + REST |
+| **Sistema Acadêmico Mobile** | Android (Java), SQLite | App mobile, persistência local, testes (JUnit/Espresso) |
+| **Yu-Gi-Oh | Jo-ken-po Edition** | JS, Java (JavaFX/Swing) | Lógica de jogo, estado, mídia, versões Web & Desktop |
+| **Classificador de Nível de Herói** | HTML, CSS, JS, Tailwind | Projeto didático com UX, animações e lógica de classificação |
 
-### 🎯 Diferenciais Competitivos:
-- **E-commerce Expertise:** Sistema completo com gateways de pagamento
-- **Testes Automatizados:** Unitários e integração (Python/Django/Cypress)
-- **Linux & DevOps:** Conhecimento em sistemas operacionais e deploy
-- **Design Patterns & Clean Code:** Código limpo e arquitetura escalável
-- **Metodologia Scrum:** Experiência em desenvolvimento ágil
-- **Portfolio GitHub:** Projetos demonstrando competências técnicas
-- **Inglês Avançado:** Capacidade de trabalhar com documentação internacional
-
-### 💡 Competências Comportamentais:
-- **Resolução de Problemas:** Capacidade analítica para debugging e otimização
-- **Trabalho em Equipe:** Experiência em projetos colaborativos
-- **Comunicação Eficaz:** Documentação técnica e alinhamento de requisitos
-- **Adaptabilidade:** Flexibilidade para aprender novas tecnologias
-- **Iniciativa:** Proatividade na implementação de melhorias
-
-### 🌐 Idiomas & Comunicação:
-- **Português:** Nativo
-- **Inglês:** Técnico Avançado (documentação, APIs, comunicação)
-- **Espanhol:** Básico
-
-### 📚 Aprendizado Contínuo:
-- **Machine Learning & IA:** Para automação inteligente de processos
-- **Cloud Computing:** AWS, Docker para escalabilidade
-- **DevOps:** CI/CD e automação de deploy
-- **Microserviços:** Arquitetura distribuída para alta performance
+> Mais projetos em: https://github.com/Davidamascen07
 
 ---
 
-## 💼 Experiência Profissional - Backend & E-commerce
+## 📜 Certificações & Formação
 
-**Desenvolvedor Full Stack — CajuDevSistems**  
-_Abr 2022 - Mar 2025 (3 anos)_  
-- 🔧 **Desenvolvimento Backend:** APIs REST com Python/Django para sistemas de vendas
-- 💳 **Integração de Pagamentos:** Implementação de gateways e processamento de transações
-- 🛒 **E-commerce:** Desenvolvimento de plataformas de vendas com React.js
-- ⚡ **Performance:** Otimização de APIs e consultas de banco de dados
-- 📱 **Mobile:** Desenvolvimento de aplicativos para vendas online
-
-**Estagiário Full Stack — Aiamis / Ies / Serviços Vinculados**  
-_Ago 2024 - Jun 2025_  
-- 🌐 **Sistema de Agendamento:** Desenvolvimento completo de plataforma web
-- 🎯 **Backend Python:** APIs para gestão de serviços e atendimento
-- 🔄 **Integração:** Sincronização com sistemas externos via APIs REST
-- 📊 **Dashboard:** Painéis de controle para gestão de serviços
-
-### 🎓 Formação Técnica Especializada
-
-**Residência em TIC 20 - Ciência de Dados — UECE / Softex / MCTI**  
-_2025 (240h)_  
-Python avançado, Machine Learning, análise de dados, automação de processos e integração de sistemas inteligentes.
-
-**Formação Desenvolvedor Full Stack — IEL / ADECE**  
-_2024 (192h)_  
-**Python, Django, APIs REST, Git, testes automatizados, bancos de dados, metodologias ágeis.**
-
-**Bacharelado em Sistemas de Informação — FIED IEDUCARE**  
-_2021 - 2025_  
-Programação, bancos de dados, arquitetura de software, segurança, gestão de projetos e metodologias de desenvolvimento.
+| Ano | Certificação / Curso | Carga | Instituição |
+|-----|----------------------|-------|-------------|
+| 2025 | Programação em Banco de Dados | 100h | FIAP |
+| 2025 | Santander 2025 - Front-End (Bootcamp) | 102h | DIO / Santander |
+| 2024 | Desenvolvedor Full Stack | 192h | IEL / FIEC / ADECE |
+| 2023 | Algoritmos: Aprenda a Programar | 80h | FIAP |
+| 2021–2025 | Bacharelado em Sistemas de Informação | — | FACULDADE IEDUCARE |
 
 ---
 
-## 📫 Contato - Pronto para Desafios em Fintech
+## 🔍 Foco Atual
 
-
-
-💼 **Disponibilidade:** Trabalho remoto, horários flexíveis, CLT PJ  
-
-Estou sempre aberto a desafios técnicos, projetos inovadores em fintech e oportunidades de crescimento em equipes de fundadores visionários:
-
-- 📧 **Email:** [davidddf.frota@gmail.com](mailto:davidddf.frota@gmail.com)
-- 📍 **Localização:** Viçosa do Ceará, Ceará, Brasil
-- 💼 **LinkedIn:** [linkedin.com/in/damascenodf](https://www.linkedin.com/in/damascenodf)
-- 🚀 **Portfolio:** [portfolio-ecru-one-16.vercel.app](https://portfolio-ecru-one-16.vercel.app/)
-- 👨‍💻 **GitHub:** Projetos demonstrando competências em e-commerce e pagamentos
+Refinar domínio em: testes avançados, mensageria / filas, otimização de queries, arquitetura orientada a eventos, observabilidade e boas práticas de segurança.
 
 ---
 
-<p align="center">
-  <i>"Desenvolvendo soluções de pagamento que transformam o empreendedorismo digital"</i>
-</p>
+## 📫 Contato
 
+**Email:** davidddf.frota@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/damascenodf  
+**Local:** Viçosa do Ceará – CE – Brasil  
+**Portfólio:** https://portfolio-ecru-one-16.vercel.app/
 
 ---
 
-<p align="center">
-  <i>© 2025 David Damasceno. Todos os direitos reservados.</i>
-</p>
+<div align="center">
+  <i>"Código limpo, automação e entrega de valor contínua."</i>
+</div>
 
-<p align="center">
-  <a href="#">Termos de Serviço</a> | <a href="#">Política de Privacidade</a> | <a href="#top">Voltar ao Topo</a>
-</p>
 
