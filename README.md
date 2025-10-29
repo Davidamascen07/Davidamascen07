@@ -12,14 +12,18 @@
 
 ## 🚀 Visão Rápida
 
-| Área | Foco |
-|------|------|
-| **Backend** | APIs REST & GraphQL (Spring Boot, Laravel, Node.js, Django) |
-| **Frontend** | React, Tailwind, SPAs performáticas |
-| **Integrações** | Gateways de pagamento, WooCommerce, Webhooks, ERPs |
-| **Banco de Dados** | MySQL, PostgreSQL, SQL otimizado |
-| **Qualidade** | Testes (PHPUnit, Pest, JUnit, Espresso), Clean Code |
-| **Automação** | Scripts, filas, jobs assíncronos, CI/CD básico |
+| **Área** | **Competências e Tecnologias** |
+|-----------|-------------------------------|
+| **Backend** | Next.js API Routes, FastAPI, Flask, Node.js; criação e integração de APIs REST e GraphQL; automação com Python e IA (GPT-4) |
+| **Frontend** | Next.js 15 (React 19), TypeScript, Tailwind CSS, Radix UI; desenvolvimento de SPAs performáticas e acessíveis; design system e boas práticas de UI/UX |
+| **Integrações** | Stripe (pagamentos), OpenAI API, Supabase, Webhooks, WooCommerce, ERPs e automações entre plataformas SaaS |
+| **Banco de Dados** | Supabase (PostgreSQL), MySQL; modelagem relacional, RLS, otimização de queries e versionamento de schema |
+| **Infraestrutura e Deploy** | Docker, Vercel, VPS, CI/CD, versionamento Git/GitHub; pipelines de deploy automatizado e monitoramento de aplicações |
+| **Qualidade e Boas Práticas** | Testes unitários (PHPUnit, Pest, JUnit), Clean Code, SOLID, documentação técnica e code review colaborativo |
+| **Automação e IA** | Integração de GPT-4, processamento de linguagem natural, visão computacional, scripts e jobs assíncronos para automação de processos |
+| **Gestão e Organização** | ClickUp, CRM, liderança de equipes técnicas, suporte e atendimento ao cliente; comunicação clara e foco em resultados |
+| **Complementares** | Web design, copywriting técnico, lógica de programação, estrutura de dados, afinidade tecnológica e raciocínio lógico avançado |
+
 
 💡 **Impacto comprovado:** redução de **70%** no tempo de atendimento administrativo (Projeto SIAPP) e entrega de múltiplas soluções full stack end‑to‑end em ambiente freelance.
 
