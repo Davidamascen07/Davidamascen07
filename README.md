@@ -80,6 +80,8 @@
 | 2025 | Santander 2025 - Front-End (Bootcamp) | 102h | DIO / Santander |
 | 2024 | Desenvolvedor Full Stack | 192h | IEL / FIEC / ADECE |
 | 2023 | Algoritmos: Aprenda a Programar | 80h | FIAP |
+| 2025-2026| Capacitação em IA | 360H | UFC/FDTE |
+| 2025 | Capacitação em Ciências de Dados | 360H | UFC/FDTE |
 | 2021–2025 | Bacharelado em Sistemas de Informação | — | FACULDADE IEDUCARE |
 
 ---
